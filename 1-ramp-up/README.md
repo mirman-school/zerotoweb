@@ -50,7 +50,6 @@ In this file, write a bit about your expectations from the course, as well as ex
 
 Push yourself! See if you can add images as well, or maybe even a table!
 
-
 ## Turning it in
 
 To submit your work, you will have to use the Git tools built into VSCode. We'll go over those together. But remember these basics steps:
